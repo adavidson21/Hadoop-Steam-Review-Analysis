@@ -1,315 +1,315 @@
-20XX	Positive: 2006, Negative: 230, Neutral: 349
-A Hat in Time	Positive: 18817, Negative: 1370, Neutral: 4536
-A Short Hike	Positive: 3623, Negative: 114, Neutral: 424
-A Way Out	Positive: 2891, Negative: 519, Neutral: 922
-ARK: Survival Evolved	Positive: 99571, Negative: 37605, Neutral: 45025
-ATLAS	Positive: 8453, Negative: 6880, Neutral: 4172
-Age of Empires II (2013)	Positive: 26245, Negative: 2823, Neutral: 8629
-Age of Empires: Definitive Edition	Positive: 1639, Negative: 391, Neutral: 476
-American Truck Simulator	Positive: 26218, Negative: 2116, Neutral: 6511
-Among Us	Positive: 159056, Negative: 30212, Neutral: 101829
-Ancestors Legacy	Positive: 1453, Negative: 338, Neutral: 321
-Arma 3	Positive: 53483, Negative: 11253, Neutral: 23716
-Artifact	Positive: 5763, Negative: 1564, Neutral: 2025
-Assassin's Creed Odyssey	Positive: 21910, Negative: 3361, Neutral: 5847
-Assassin's Creed Origins	Positive: 12229, Negative: 2323, Neutral: 3037
-Avorion	Positive: 3548, Negative: 644, Neutral: 823
-Axiom Verge	Positive: 2425, Negative: 287, Neutral: 325
-BATTALION 1944	Positive: 5777, Negative: 2343, Neutral: 2430
-BATTLETECH	Positive: 11723, Negative: 3130, Neutral: 2391
-BERSERK and the Band of the Hawk	Positive: 433, Negative: 287, Neutral: 224
-Baba Is You	Positive: 4426, Negative: 820, Neutral: 1653
-Banished	Positive: 14851, Negative: 4518, Neutral: 4025
-Batman: Arkham Asylum GOTY Edition	Positive: 10356, Negative: 1339, Neutral: 2779
-Battle Royale Trainer	Positive: 139, Negative: 48, Neutral: 40
-BattleBlock Theater	Positive: 15287, Negative: 3101, Neutral: 6021
-BeamNG.drive	Positive: 23613, Negative: 3172, Neutral: 9618
-Beat Saber	Positive: 23133, Negative: 3135, Neutral: 9186
-BioShock Infinite	Positive: 35382, Negative: 5112, Neutral: 9161
-Black Desert Online	Positive: 13762, Negative: 4384, Neutral: 6354
-Black Mesa	Positive: 24614, Negative: 2342, Neutral: 5575
-Blackwake	Positive: 6262, Negative: 1784, Neutral: 2790
-Bless Online	Positive: 2599, Negative: 2434, Neutral: 1222
-Bloons TD 6	Positive: 23221, Negative: 3024, Neutral: 15159
-Bomber Crew	Positive: 2789, Negative: 1093, Neutral: 870
-Borderlands 3	Positive: 17827, Negative: 4772, Neutral: 7165
-Broforce	Positive: 11099, Negative: 2526, Neutral: 5825
-Budget Cuts	Positive: 662, Negative: 268, Neutral: 180
-CHRONO TRIGGER	Positive: 1620, Negative: 333, Neutral: 347
-Call of Duty: Infinite Warfare	Positive: 5114, Negative: 3363, Neutral: 2269
-Call of Duty: WWII	Positive: 6873, Negative: 3739, Neutral: 2593
-Castle Crashers	Positive: 20702, Negative: 2998, Neutral: 7371
-Cave Story+	Positive: 3465, Negative: 518, Neutral: 777
-Celeste	Positive: 10393, Negative: 1443, Neutral: 2812
-Cities: Skylines	Positive: 46514, Negative: 7491, Neutral: 15074
-Clicker Heroes 2	Positive: 762, Negative: 168, Neutral: 186
-Cold Waters	Positive: 1452, Negative: 336, Neutral: 272
-Conan Exiles	Positive: 19890, Negative: 6525, Neutral: 5429
-Counter-Strike: Source	Positive: 23705, Negative: 4076, Neutral: 14262
-Crash Bandicoot™ N. Sane Trilogy	Positive: 3016, Negative: 1020, Neutral: 1325
-Crusader Kings III	Positive: 13823, Negative: 2672, Neutral: 5025
-Cube World	Positive: 5265, Negative: 2677, Neutral: 2289
-Cuphead	Positive: 17975, Negative: 5798, Neutral: 8747
-Cyberdimension Neptunia: 4 Goddesses Online	Positive: 706, Negative: 217, Neutral: 351
-DARK SOULS™ III	Positive: 40425, Negative: 21220, Neutral: 26067
-DARK SOULS™: REMASTERED	Positive: 8050, Negative: 4692, Neutral: 4735
-DEATH STRANDING	Positive: 10365, Negative: 2491, Neutral: 4061
-DOOM	Positive: 41200, Negative: 20072, Neutral: 18961
-DOOM Eternal	Positive: 32172, Negative: 20688, Neutral: 18781
-DRAGON BALL FighterZ	Positive: 10438, Negative: 1746, Neutral: 4468
-DRAGON QUEST HEROES™ II	Positive: 208, Negative: 79, Neutral: 60
-DUSK	Positive: 6146, Negative: 1079, Neutral: 1983
-DYNASTY WARRIORS 9	Positive: 573, Negative: 411, Neutral: 230
-Danganronpa 2: Goodbye Despair	Positive: 4046, Negative: 1141, Neutral: 2063
-Danganronpa: Trigger Happy Havoc	Positive: 5652, Negative: 1725, Neutral: 2499
-Darkest Dungeon®	Positive: 17939, Negative: 13711, Neutral: 8482
-Darksiders III	Positive: 2281, Negative: 1131, Neutral: 532
-Day of Infamy	Positive: 7153, Negative: 1637, Neutral: 2206
-Dead Cells	Positive: 14224, Negative: 2969, Neutral: 4194
-Dead Rising 4	Positive: 554, Negative: 705, Neutral: 328
-Dead by Daylight	Positive: 71174, Negative: 32649, Neutral: 37855
-Deep Rock Galactic	Positive: 29230, Negative: 4804, Neutral: 12607
-Desolate	Positive: 1051, Negative: 554, Neutral: 322
-Detention	Positive: 1312, Negative: 352, Neutral: 348
-Deus Ex: The Fall	Positive: 792, Negative: 1009, Neutral: 429
-Devil May Cry HD Collection	Positive: 706, Negative: 346, Neutral: 377
-DiRT 4	Positive: 2343, Negative: 969, Neutral: 804
-Dishonored	Positive: 23171, Negative: 3965, Neutral: 6039
-Divinity: Original Sin 2	Positive: 41533, Negative: 5598, Neutral: 10327
-Doki Doki Literature Club	Positive: 42072, Negative: 16465, Neutral: 30119
-Don't Escape: 4 Days to Survive	Positive: 648, Negative: 32, Neutral: 81
-Don't Starve	Positive: 20037, Negative: 6139, Neutral: 7351
-Don't Starve Together	Positive: 41132, Negative: 10182, Neutral: 17467
-Down To One	Positive: 395, Negative: 400, Neutral: 311
-Dragon Cliff 龙崖	Positive: 461, Negative: 96, Neutral: 144
-Duck Game	Positive: 6312, Negative: 3116, Neutral: 3653
-Due Process	Positive: 1718, Negative: 415, Neutral: 556
-Dungreed	Positive: 790, Negative: 125, Neutral: 296
-Dying Light	Positive: 35782, Negative: 10367, Neutral: 15099
-Eco	Positive: 2137, Negative: 503, Neutral: 587
-Enter the Gungeon	Positive: 15729, Negative: 3752, Neutral: 7842
-Euro Truck Simulator 2	Positive: 54218, Negative: 5457, Neutral: 20190
-Europa Universalis IV	Positive: 25900, Negative: 6514, Neutral: 12653
-FAR: Lone Sails	Positive: 3202, Negative: 195, Neutral: 409
-FINAL FANTASY XII THE ZODIAC AGE	Positive: 1901, Negative: 240, Neutral: 391
-FINAL FANTASY XIV Online	Positive: 14543, Negative: 2768, Neutral: 5445
-FINAL FANTASY XV WINDOWS EDITION	Positive: 7929, Negative: 2189, Neutral: 2363
-FTL: Faster Than Light	Positive: 26890, Negative: 7385, Neutral: 9048
-Factorio	Positive: 41181, Negative: 8064, Neutral: 18445
-Fairy Fencer F Advent Dark Force	Positive: 378, Negative: 107, Neutral: 121
-Fallout 4	Positive: 68026, Negative: 34031, Neutral: 35601
-Far Cry 5	Positive: 18802, Negative: 7788, Neutral: 8197
-Farm Manager 2018	Positive: 361, Negative: 199, Neutral: 92
-Farm Together	Positive: 2575, Negative: 238, Neutral: 607
-Farming Simulator 19	Positive: 10041, Negative: 1044, Neutral: 3216
-Finding Paradise	Positive: 2716, Negative: 409, Neutral: 626
-Fishing: Barents Sea	Positive: 606, Negative: 150, Neutral: 146
-Football Manager 2019	Positive: 2477, Negative: 507, Neutral: 920
-For Honor	Positive: 20067, Negative: 9832, Neutral: 10437
-For The King	Positive: 4638, Negative: 968, Neutral: 1204
-Foundation	Positive: 2754, Negative: 372, Neutral: 503
-Freeman: Guerrilla Warfare	Positive: 2944, Negative: 691, Neutral: 786
-Frostpunk	Positive: 14460, Negative: 3697, Neutral: 4061
-GOD EATER 3	Positive: 1179, Negative: 258, Neutral: 387
-GRIS	Positive: 10953, Negative: 725, Neutral: 1684
-Garry's Mod	Positive: 185003, Negative: 32471, Neutral: 110031
-Getting Over It with Bennett Foddy	Positive: 5096, Negative: 6053, Neutral: 5211
-Ghost of a Tale	Positive: 1345, Negative: 146, Neutral: 166
-Golf It!	Positive: 3474, Negative: 892, Neutral: 1885
-Grand Theft Auto V	Positive: 159735, Negative: 51691, Neutral: 101024
-Grimm's Hollow	Positive: 2520, Negative: 187, Neutral: 371
-Guacamelee! Super Turbo Championship Edition	Positive: 1577, Negative: 215, Neutral: 377
-Gunpoint	Positive: 7197, Negative: 748, Neutral: 1327
-HITMAN™ 2	Positive: 13750, Negative: 2537, Neutral: 5165
-Hades	Positive: 46743, Negative: 4493, Neutral: 13565
-Half-Life	Positive: 16980, Negative: 2755, Neutral: 8293
-Half-Life 2: Episode Two	Positive: 5696, Negative: 1316, Neutral: 4234
-Half-Life: Alyx	Positive: 27185, Negative: 2785, Neutral: 7612
-Hearts of Iron IV	Positive: 35223, Negative: 7564, Neutral: 17449
-Helltaker	Positive: 20639, Negative: 5401, Neutral: 9935
-Heroes of Hammerwatch	Positive: 2270, Negative: 415, Neutral: 625
-Hollow Knight	Positive: 74808, Negative: 12470, Neutral: 20780
-Hotline Miami	Positive: 16272, Negative: 6255, Neutral: 8294
-House Flipper	Positive: 12621, Negative: 2013, Neutral: 4049
-Human: Fall Flat	Positive: 14452, Negative: 2939, Neutral: 6838
-HuniePop	Positive: 9968, Negative: 3133, Neutral: 6855
-Hunt Down The Freeman	Positive: 396, Negative: 517, Neutral: 372
-Hunt: Showdown	Positive: 21819, Negative: 8504, Neutral: 8263
-Iconoclasts	Positive: 1169, Negative: 174, Neutral: 139
-Identity	Positive: 367, Negative: 527, Neutral: 327
-Insurgency: Sandstorm	Positive: 23978, Negative: 5499, Neutral: 8310
-Into the Breach	Positive: 5575, Negative: 966, Neutral: 1276
-Jurassic World Evolution	Positive: 12712, Negative: 2140, Neutral: 3567
-Just Cause 3	Positive: 19798, Negative: 7938, Neutral: 8698
-Just Cause 4	Positive: 4239, Negative: 2627, Neutral: 1721
-Just Shapes & Beats	Positive: 3458, Negative: 314, Neutral: 1201
-Keep Talking and Nobody Explodes	Positive: 3644, Negative: 1022, Neutral: 1235
-Kenshi	Positive: 12412, Negative: 5297, Neutral: 5308
-Kingdom Come: Deliverance	Positive: 20787, Negative: 8491, Neutral: 6084
-Kingdom Two Crowns	Positive: 1826, Negative: 439, Neutral: 522
-Little Nightmares	Positive: 5754, Negative: 1369, Neutral: 1641
-METAL GEAR SURVIVE	Positive: 1299, Negative: 728, Neutral: 419
-MORDHAU	Positive: 28190, Negative: 10673, Neutral: 15081
-Mark of the Ninja	Positive: 6953, Negative: 857, Neutral: 1325
-Middle-earth™: Shadow of War™	Positive: 13671, Negative: 4417, Neutral: 4416
-Mirror	Positive: 3176, Negative: 844, Neutral: 2078
-Momodora: Reverie Under the Moonlight	Positive: 2744, Negative: 463, Neutral: 451
-Monster Hunter: World	Positive: 52569, Negative: 18666, Neutral: 24997
-Monster Prom	Positive: 3992, Negative: 778, Neutral: 1297
-Mount & Blade: Warband	Positive: 35724, Negative: 6328, Neutral: 14842
-Mutant Year Zero: Road to Eden	Positive: 6364, Negative: 1044, Neutral: 1023
-My Time At Portia	Positive: 8251, Negative: 1022, Neutral: 1449
-NBA 2K18	Positive: 1231, Negative: 1605, Neutral: 928
-NBA 2K19	Positive: 1875, Negative: 1504, Neutral: 1269
-NBA 2K21	Positive: 1485, Negative: 1343, Neutral: 1310
-Neon Hardcorps	Positive: 18, Negative: 26, Neutral: 16
-Nether	Positive: 3848, Negative: 4205, Neutral: 2442
-Ni no Kuni™ II: Revenant Kingdom	Positive: 2677, Negative: 527, Neutral: 535
-NieR:Automata™	Positive: 21536, Negative: 5170, Neutral: 7432
-Night in the Woods	Positive: 5883, Negative: 968, Neutral: 1522
-Nioh: Complete Edition	Positive: 3705, Negative: 1922, Neutral: 1522
-No Man's Sky	Positive: 67308, Negative: 25865, Neutral: 22330
-Northgard	Positive: 11071, Negative: 1440, Neutral: 2123
-Nova Drift	Positive: 1894, Negative: 207, Neutral: 371
-One Finger Death Punch	Positive: 6969, Negative: 1648, Neutral: 2363
-OneShot	Positive: 7987, Negative: 1068, Neutral: 2193
-Ori and the Will of the Wisps	Positive: 10912, Negative: 1118, Neutral: 2090
-Out of the Park Baseball 19	Positive: 444, Negative: 60, Neutral: 64
-Outlast	Positive: 9450, Negative: 7145, Neutral: 6153
-Overcooked! 2	Positive: 4390, Negative: 763, Neutral: 1456
-Oxygen Not Included	Positive: 15577, Negative: 3219, Neutral: 5262
-PAYDAY 2	Positive: 101564, Negative: 28289, Neutral: 54483
-PC Building Simulator	Positive: 9614, Negative: 994, Neutral: 3148
-PLAYERUNKNOWN'S BATTLEGROUNDS	Positive: 129964, Negative: 90414, Neutral: 90181
-Papers, Please	Positive: 15397, Negative: 3299, Neutral: 5152
-Pathfinder: Kingmaker	Positive: 8019, Negative: 3361, Neutral: 1745
-People Playground	Positive: 8819, Negative: 2169, Neutral: 5900
-Persona 4 Golden	Positive: 17976, Negative: 2516, Neutral: 7353
-Phasmophobia	Positive: 61183, Negative: 26697, Neutral: 40254
-Phoenix Wright: Ace Attorney Trilogy	Positive: 1804, Negative: 378, Neutral: 758
-Pillars of Eternity II: Deadfire	Positive: 4826, Negative: 771, Neutral: 809
-Pit People	Positive: 2849, Negative: 430, Neutral: 854
-PixARK	Positive: 1533, Negative: 675, Neutral: 574
-Planet Coaster	Positive: 16056, Negative: 2119, Neutral: 4185
-Pogostuck: Rage With Your Friends	Positive: 457, Negative: 539, Neutral: 553
-Portal 2	Positive: 72152, Negative: 6947, Neutral: 26579
-Puyo Puyo™Tetris®	Positive: 1173, Negative: 284, Neutral: 602
-Raft	Positive: 25492, Negative: 4651, Neutral: 10092
-Railway Empire	Positive: 2109, Negative: 444, Neutral: 415
-Rapture Rejects	Positive: 520, Negative: 222, Neutral: 213
-Ravenfield	Positive: 13643, Negative: 1186, Neutral: 4312
-Resident Evil 2	Positive: 20194, Negative: 4199, Neutral: 7021
-Resident Evil 7 Biohazard	Positive: 7716, Negative: 3062, Neutral: 2895
-RimWorld	Positive: 35832, Negative: 9941, Neutral: 13119
-Rise of Industry	Positive: 1380, Negative: 259, Neutral: 229
-Rise of the Tomb Raider	Positive: 18644, Negative: 2133, Neutral: 3521
-Rocket League	Positive: 144319, Negative: 28302, Neutral: 71511
-RollerCoaster Tycoon World	Positive: 1115, Negative: 1226, Neutral: 517
-Rules Of Survival	Positive: 906, Negative: 699, Neutral: 808
-Rust	Positive: 135207, Negative: 59156, Neutral: 85267
-SCUM	Positive: 10631, Negative: 4924, Neutral: 3909
-SENRAN KAGURA ESTIVAL VERSUS	Positive: 606, Negative: 142, Neutral: 363
-SENRAN KAGURA Peach Beach Splash	Positive: 459, Negative: 152, Neutral: 256
-SOS	Positive: 840, Negative: 569, Neutral: 461
-SOULCALIBUR VI	Positive: 3256, Negative: 728, Neutral: 993
-STAR WARS™ Empire at War: Gold Pack	Positive: 10480, Negative: 1040, Neutral: 2926
-STEINS;GATE	Positive: 1415, Negative: 246, Neutral: 628
-STEINS;GATE 0	Positive: 492, Negative: 97, Neutral: 175
-Saints Row: The Third	Positive: 13837, Negative: 3251, Neutral: 6251
-Salt and Sanctuary	Positive: 2523, Negative: 1249, Neutral: 967
-Satisfactory	Positive: 16490, Negative: 2268, Neutral: 6180
-Secret of Mana	Positive: 704, Negative: 334, Neutral: 119
-Sekiro™: Shadows Die Twice	Positive: 17914, Negative: 7048, Neutral: 8679
-Senren＊Banka	Positive: 190, Negative: 14, Neutral: 60
-Shadow Complex Remastered	Positive: 278, Negative: 58, Neutral: 45
-Shovel Knight: Treasure Trove	Positive: 7348, Negative: 798, Neutral: 1607
-Sid Meier's Civilization V	Positive: 63549, Negative: 11746, Neutral: 27747
-Sid Meier's Civilization VI	Positive: 42020, Negative: 9649, Neutral: 15424
-SimAirport	Positive: 1217, Negative: 323, Neutral: 253
-Slay the Spire	Positive: 29461, Negative: 3331, Neutral: 8229
-Slime Rancher	Positive: 24235, Negative: 3194, Neutral: 6792
-Slipstream	Positive: 630, Negative: 65, Neutral: 132
-Sniper Elite 4	Positive: 5938, Negative: 1119, Neutral: 1729
-South Park™: The Stick of Truth™	Positive: 15622, Negative: 2509, Neutral: 4848
-Stardew Valley	Positive: 119363, Negative: 12392, Neutral: 38596
-Staxel	Positive: 1551, Negative: 253, Neutral: 302
-Stay Out	Positive: 739, Negative: 894, Neutral: 571
-Steel Division: Normandy 44	Positive: 1766, Negative: 597, Neutral: 459
-Stellaris	Positive: 34304, Negative: 8124, Neutral: 11260
-Streets of Rogue	Positive: 4644, Negative: 936, Neutral: 1326
-Styx: Shards of Darkness	Positive: 964, Negative: 327, Neutral: 254
-Subnautica	Positive: 65434, Negative: 9646, Neutral: 16716
-Super Hexagon	Positive: 6852, Negative: 3408, Neutral: 4505
-Super Meat Boy	Positive: 6830, Negative: 3441, Neutral: 3997
-Surviving Mars	Positive: 5543, Negative: 1261, Neutral: 1341
-Sword Art Online: Fatal Bullet	Positive: 2672, Negative: 708, Neutral: 919
-Tabletop Simulator	Positive: 17646, Negative: 1995, Neutral: 6585
-Takedown: Red Sabre	Positive: 986, Negative: 1226, Neutral: 799
-Tales of Berseria	Positive: 3860, Negative: 640, Neutral: 811
-Terraria	Positive: 238567, Negative: 25609, Neutral: 101089
-The Binding of Isaac	Positive: 13465, Negative: 5565, Neutral: 6895
-The Binding of Isaac: Rebirth	Positive: 32687, Negative: 8118, Neutral: 16080
-The Crew 2	Positive: 6178, Negative: 1358, Neutral: 2511
-The Elder Scrolls Online	Positive: 31364, Negative: 6977, Neutral: 10249
-The Elder Scrolls V: Skyrim	Positive: 94402, Negative: 19472, Neutral: 44380
-The Elder Scrolls V: Skyrim Special Edition	Positive: 49767, Negative: 9126, Neutral: 24563
-The End Is Nigh	Positive: 717, Negative: 230, Neutral: 234
-The Forest	Positive: 55065, Negative: 15019, Neutral: 22354
-The Henry Stickmin Collection	Positive: 9714, Negative: 1182, Neutral: 4104
-The Legend of Heroes: Trails of Cold Steel II	Positive: 792, Negative: 138, Neutral: 218
-The Room	Positive: 6437, Negative: 496, Neutral: 1074
-The Room Two	Positive: 4747, Negative: 333, Neutral: 670
-The Sims(TM) 3	Positive: 7966, Negative: 2652, Neutral: 3688
-The Walking Dead	Positive: 15906, Negative: 4304, Neutral: 5693
-The Wild Eight	Positive: 821, Negative: 416, Neutral: 258
-The Witcher 3: Wild Hunt	Positive: 104707, Negative: 11171, Neutral: 32422
-The Wolf Among Us	Positive: 10873, Negative: 1611, Neutral: 2607
-There Is No Game: Wrong Dimension	Positive: 2069, Negative: 244, Neutral: 617
-They Are Billions	Positive: 7883, Negative: 3775, Neutral: 2763
-Thief Simulator	Positive: 2222, Negative: 516, Neutral: 806
-Thimbleweed Park	Positive: 1457, Negative: 153, Neutral: 198
-Titan Souls	Positive: 1279, Negative: 835, Neutral: 502
-To the Moon	Positive: 14214, Negative: 2411, Neutral: 4030
-Tom Clancy's Ghost Recon® Wildlands	Positive: 11249, Negative: 3956, Neutral: 3819
-Tom Clancy's Rainbow Six Siege	Positive: 192915, Negative: 50222, Neutral: 120846
-Tomb Raider	Positive: 40923, Negative: 4464, Neutral: 9033
-Torment: Tides of Numenera	Positive: 1681, Negative: 600, Neutral: 312
-Total War Saga: Thrones of Britannia	Positive: 3610, Negative: 1091, Neutral: 853
-Total War: ROME II - Emperor Edition	Positive: 18814, Negative: 5299, Neutral: 6572
-Total War: THREE KINGDOMS	Positive: 11222, Negative: 1745, Neutral: 2818
-Total War: WARHAMMER	Positive: 16701, Negative: 3779, Neutral: 4564
-Total War: WARHAMMER II	Positive: 32360, Negative: 4421, Neutral: 10394
-Totally Accurate Battle Simulator	Positive: 20092, Negative: 2384, Neutral: 9449
-Totally Accurate Battlegrounds	Positive: 10588, Negative: 3580, Neutral: 6344
-Toukiden 2	Positive: 319, Negative: 107, Neutral: 91
-Townscaper	Positive: 3491, Negative: 199, Neutral: 749
-Trailmakers	Positive: 2611, Negative: 304, Neutral: 873
-Train Sim World® 2020	Positive: 1946, Negative: 474, Neutral: 453
-Two Point Hospital	Positive: 8374, Negative: 1010, Neutral: 1795
-ULTRAKILL	Positive: 2250, Negative: 1104, Neutral: 1387
-Ultimate Marvel vs. Capcom 3	Positive: 1029, Negative: 201, Neutral: 453
-Umbrella Corps	Positive: 398, Negative: 415, Neutral: 237
-Undertale	Positive: 56060, Negative: 12464, Neutral: 24239
-Urban Empire	Positive: 409, Negative: 298, Neutral: 137
-VA-11 Hall-A: Cyberpunk Bartender Action	Positive: 6802, Negative: 711, Neutral: 1832
-Vampyr	Positive: 3930, Negative: 1729, Neutral: 973
-Void Bastards	Positive: 1624, Negative: 501, Neutral: 412
-Volgarr the Viking	Positive: 675, Negative: 433, Neutral: 312
-WWE 2K17	Positive: 327, Negative: 246, Neutral: 156
-WWE 2K19	Positive: 697, Negative: 327, Neutral: 270
-WWE 2K20	Positive: 494, Negative: 918, Neutral: 357
-Wallpaper Engine	Positive: 50155, Negative: 3699, Neutral: 25000
-Warhammer 40,000: Dawn of War III	Positive: 5677, Negative: 2466, Neutral: 1550
-Warhammer 40,000: Mechanicus	Positive: 3745, Negative: 605, Neutral: 772
-Warhammer: Vermintide 2	Positive: 17074, Negative: 6425, Neutral: 7028
-Watch_Dogs 2	Positive: 8821, Negative: 2097, Neutral: 3217
-We Were Here Too	Positive: 1205, Negative: 276, Neutral: 312
-Wolfenstein: Youngblood	Positive: 1508, Negative: 1135, Neutral: 572
-X Rebirth	Positive: 1593, Negative: 1778, Neutral: 721
-X-Blades	Positive: 478, Negative: 459, Neutral: 252
-X-Plane 11	Positive: 3775, Negative: 333, Neutral: 848
-XCOM 2	Positive: 20521, Negative: 8787, Neutral: 6859
-Yakuza 0	Positive: 11315, Negative: 2356, Neutral: 5288
-Youtubers Life	Positive: 3610, Negative: 1137, Neutral: 1526
-theHunter: Call of the Wild™	Positive: 15027, Negative: 3250, Neutral: 4821
-三国群英传8 Heroes of the Three Kingdoms 8	Positive: 15, Negative: 5, Neutral: 30
+20XX	2006,230,349
+A Hat in Time	18817,1370,4536
+A Short Hike	3623,114,424
+A Way Out	2891,519,922
+ARK: Survival Evolved	99571,37605,45025
+ATLAS	8453,6880,4172
+Age of Empires II (2013)	26245,2823,8629
+Age of Empires: Definitive Edition	1639,391,476
+American Truck Simulator	26218,2116,6511
+Among Us	159056,30212,101829
+Ancestors Legacy	1453,338,321
+Arma 3	53483,11253,23716
+Artifact	5763,1564,2025
+Assassin's Creed Odyssey	21910,3361,5847
+Assassin's Creed Origins	12229,2323,3037
+Avorion	3548,644,823
+Axiom Verge	2425,287,325
+BATTALION 1944	5777,2343,2430
+BATTLETECH	11723,3130,2391
+BERSERK and the Band of the Hawk	433,287,224
+Baba Is You	4426,820,1653
+Banished	14851,4518,4025
+Batman: Arkham Asylum GOTY Edition	10356,1339,2779
+Battle Royale Trainer	139,48,40
+BattleBlock Theater	15287,3101,6021
+BeamNG.drive	23613,3172,9618
+Beat Saber	23133,3135,9186
+BioShock Infinite	35382,5112,9161
+Black Desert Online	13762,4384,6354
+Black Mesa	24614,2342,5575
+Blackwake	6262,1784,2790
+Bless Online	2599,2434,1222
+Bloons TD 6	23221,3024,15159
+Bomber Crew	2789,1093,870
+Borderlands 3	17827,4772,7165
+Broforce	11099,2526,5825
+Budget Cuts	662,268,180
+CHRONO TRIGGER	1620,333,347
+Call of Duty: Infinite Warfare	5114,3363,2269
+Call of Duty: WWII	6873,3739,2593
+Castle Crashers	20702,2998,7371
+Cave Story+	3465,518,777
+Celeste	10393,1443,2812
+Cities: Skylines	46514,7491,15074
+Clicker Heroes 2	762,168,186
+Cold Waters	1452,336,272
+Conan Exiles	19890,6525,5429
+Counter-Strike: Source	23705,4076,14262
+Crash Bandicoot™ N. Sane Trilogy	3016,1020,1325
+Crusader Kings III	13823,2672,5025
+Cube World	5265,2677,2289
+Cuphead	17975,5798,8747
+Cyberdimension Neptunia: 4 Goddesses Online	706,217,351
+DARK SOULS™ III	40425,21220,26067
+DARK SOULS™: REMASTERED	8050,4692,4735
+DEATH STRANDING	10365,2491,4061
+DOOM	41200,20072,18961
+DOOM Eternal	32172,20688,18781
+DRAGON BALL FighterZ	10438,1746,4468
+DRAGON QUEST HEROES™ II	208,79,60
+DUSK	6146,1079,1983
+DYNASTY WARRIORS 9	573,411,230
+Danganronpa 2: Goodbye Despair	4046,1141,2063
+Danganronpa: Trigger Happy Havoc	5652,1725,2499
+Darkest Dungeon®	17939,13711,8482
+Darksiders III	2281,1131,532
+Day of Infamy	7153,1637,2206
+Dead Cells	14224,2969,4194
+Dead Rising 4	554,705,328
+Dead by Daylight	71174,32649,37855
+Deep Rock Galactic	29230,4804,12607
+Desolate	1051,554,322
+Detention	1312,352,348
+Deus Ex: The Fall	792,1009,429
+Devil May Cry HD Collection	706,346,377
+DiRT 4	2343,969,804
+Dishonored	23171,3965,6039
+Divinity: Original Sin 2	41533,5598,10327
+Doki Doki Literature Club	42072,16465,30119
+Don't Escape: 4 Days to Survive	648,32,81
+Don't Starve	20037,6139,7351
+Don't Starve Together	41132,10182,17467
+Down To One	395,400,311
+Dragon Cliff 龙崖	461,96,144
+Duck Game	6312,3116,3653
+Due Process	1718,415,556
+Dungreed	790,125,296
+Dying Light	35782,10367,15099
+Eco	2137,503,587
+Enter the Gungeon	15729,3752,7842
+Euro Truck Simulator 2	54218,5457,20190
+Europa Universalis IV	25900,6514,12653
+FAR: Lone Sails	3202,195,409
+FINAL FANTASY XII THE ZODIAC AGE	1901,240,391
+FINAL FANTASY XIV Online	14543,2768,5445
+FINAL FANTASY XV WINDOWS EDITION	7929,2189,2363
+FTL: Faster Than Light	26890,7385,9048
+Factorio	41181,8064,18445
+Fairy Fencer F Advent Dark Force	378,107,121
+Fallout 4	68026,34031,35601
+Far Cry 5	18802,7788,8197
+Farm Manager 2018	361,199,92
+Farm Together	2575,238,607
+Farming Simulator 19	10041,1044,3216
+Finding Paradise	2716,409,626
+Fishing: Barents Sea	606,150,146
+Football Manager 2019	2477,507,920
+For Honor	20067,9832,10437
+For The King	4638,968,1204
+Foundation	2754,372,503
+Freeman: Guerrilla Warfare	2944,691,786
+Frostpunk	14460,3697,4061
+GOD EATER 3	1179,258,387
+GRIS	10953,725,1684
+Garry's Mod	185003,32471,110031
+Getting Over It with Bennett Foddy	5096,6053,5211
+Ghost of a Tale	1345,146,166
+Golf It!	3474,892,1885
+Grand Theft Auto V	159735,51691,101024
+Grimm's Hollow	2520,187,371
+Guacamelee! Super Turbo Championship Edition	1577,215,377
+Gunpoint	7197,748,1327
+HITMAN™ 2	13750,2537,5165
+Hades	46743,4493,13565
+Half-Life	16980,2755,8293
+Half-Life 2: Episode Two	5696,1316,4234
+Half-Life: Alyx	27185,2785,7612
+Hearts of Iron IV	35223,7564,17449
+Helltaker	20639,5401,9935
+Heroes of Hammerwatch	2270,415,625
+Hollow Knight	74808,12470,20780
+Hotline Miami	16272,6255,8294
+House Flipper	12621,2013,4049
+Human: Fall Flat	14452,2939,6838
+HuniePop	9968,3133,6855
+Hunt Down The Freeman	396,517,372
+Hunt: Showdown	21819,8504,8263
+Iconoclasts	1169,174,139
+Identity	367,527,327
+Insurgency: Sandstorm	23978,5499,8310
+Into the Breach	5575,966,1276
+Jurassic World Evolution	12712,2140,3567
+Just Cause 3	19798,7938,8698
+Just Cause 4	4239,2627,1721
+Just Shapes & Beats	3458,314,1201
+Keep Talking and Nobody Explodes	3644,1022,1235
+Kenshi	12412,5297,5308
+Kingdom Come: Deliverance	20787,8491,6084
+Kingdom Two Crowns	1826,439,522
+Little Nightmares	5754,1369,1641
+METAL GEAR SURVIVE	1299,728,419
+MORDHAU	28190,10673,15081
+Mark of the Ninja	6953,857,1325
+Middle-earth™: Shadow of War™	13671,4417,4416
+Mirror	3176,844,2078
+Momodora: Reverie Under the Moonlight	2744,463,451
+Monster Hunter: World	52569,18666,24997
+Monster Prom	3992,778,1297
+Mount & Blade: Warband	35724,6328,14842
+Mutant Year Zero: Road to Eden	6364,1044,1023
+My Time At Portia	8251,1022,1449
+NBA 2K18	1231,1605,928
+NBA 2K19	1875,1504,1269
+NBA 2K21	1485,1343,1310
+Neon Hardcorps	18,26,16
+Nether	3848,4205,2442
+Ni no Kuni™ II: Revenant Kingdom	2677,527,535
+NieR:Automata™	21536,5170,7432
+Night in the Woods	5883,968,1522
+Nioh: Complete Edition	3705,1922,1522
+No Man's Sky	67308,25865,22330
+Northgard	11071,1440,2123
+Nova Drift	1894,207,371
+One Finger Death Punch	6969,1648,2363
+OneShot	7987,1068,2193
+Ori and the Will of the Wisps	10912,1118,2090
+Out of the Park Baseball 19	444,60,64
+Outlast	9450,7145,6153
+Overcooked! 2	4390,763,1456
+Oxygen Not Included	15577,3219,5262
+PAYDAY 2	101564,28289,54483
+PC Building Simulator	9614,994,3148
+PLAYERUNKNOWN'S BATTLEGROUNDS	129964,90414,90181
+Papers, Please	15397,3299,5152
+Pathfinder: Kingmaker	8019,3361,1745
+People Playground	8819,2169,5900
+Persona 4 Golden	17976,2516,7353
+Phasmophobia	61183,26697,40254
+Phoenix Wright: Ace Attorney Trilogy	1804,378,758
+Pillars of Eternity II: Deadfire	4826,771,809
+Pit People	2849,430,854
+PixARK	1533,675,574
+Planet Coaster	16056,2119,4185
+Pogostuck: Rage With Your Friends	457,539,553
+Portal 2	72152,6947,26579
+Puyo Puyo™Tetris®	1173,284,602
+Raft	25492,4651,10092
+Railway Empire	2109,444,415
+Rapture Rejects	520,222,213
+Ravenfield	13643,1186,4312
+Resident Evil 2	20194,4199,7021
+Resident Evil 7 Biohazard	7716,3062,2895
+RimWorld	35832,9941,13119
+Rise of Industry	1380,259,229
+Rise of the Tomb Raider	18644,2133,3521
+Rocket League	144319,28302,71511
+RollerCoaster Tycoon World	1115,1226,517
+Rules Of Survival	906,699,808
+Rust	135207,59156,85267
+SCUM	10631,4924,3909
+SENRAN KAGURA ESTIVAL VERSUS	606,142,363
+SENRAN KAGURA Peach Beach Splash	459,152,256
+SOS	840,569,461
+SOULCALIBUR VI	3256,728,993
+STAR WARS™ Empire at War: Gold Pack	10480,1040,2926
+STEINS;GATE	1415,246,628
+STEINS;GATE 0	492,97,175
+Saints Row: The Third	13837,3251,6251
+Salt and Sanctuary	2523,1249,967
+Satisfactory	16490,2268,6180
+Secret of Mana	704,334,119
+Sekiro™: Shadows Die Twice	17914,7048,8679
+Senren＊Banka	190,14,60
+Shadow Complex Remastered	278,58,45
+Shovel Knight: Treasure Trove	7348,798,1607
+Sid Meier's Civilization V	63549,11746,27747
+Sid Meier's Civilization VI	42020,9649,15424
+SimAirport	1217,323,253
+Slay the Spire	29461,3331,8229
+Slime Rancher	24235,3194,6792
+Slipstream	630,65,132
+Sniper Elite 4	5938,1119,1729
+South Park™: The Stick of Truth™	15622,2509,4848
+Stardew Valley	119363,12392,38596
+Staxel	1551,253,302
+Stay Out	739,894,571
+Steel Division: Normandy 44	1766,597,459
+Stellaris	34304,8124,11260
+Streets of Rogue	4644,936,1326
+Styx: Shards of Darkness	964,327,254
+Subnautica	65434,9646,16716
+Super Hexagon	6852,3408,4505
+Super Meat Boy	6830,3441,3997
+Surviving Mars	5543,1261,1341
+Sword Art Online: Fatal Bullet	2672,708,919
+Tabletop Simulator	17646,1995,6585
+Takedown: Red Sabre	986,1226,799
+Tales of Berseria	3860,640,811
+Terraria	238567,25609,101089
+The Binding of Isaac	13465,5565,6895
+The Binding of Isaac: Rebirth	32687,8118,16080
+The Crew 2	6178,1358,2511
+The Elder Scrolls Online	31364,6977,10249
+The Elder Scrolls V: Skyrim	94402,19472,44380
+The Elder Scrolls V: Skyrim Special Edition	49767,9126,24563
+The End Is Nigh	717,230,234
+The Forest	55065,15019,22354
+The Henry Stickmin Collection	9714,1182,4104
+The Legend of Heroes: Trails of Cold Steel II	792,138,218
+The Room	6437,496,1074
+The Room Two	4747,333,670
+The Sims(TM) 3	7966,2652,3688
+The Walking Dead	15906,4304,5693
+The Wild Eight	821,416,258
+The Witcher 3: Wild Hunt	104707,11171,32422
+The Wolf Among Us	10873,1611,2607
+There Is No Game: Wrong Dimension	2069,244,617
+They Are Billions	7883,3775,2763
+Thief Simulator	2222,516,806
+Thimbleweed Park	1457,153,198
+Titan Souls	1279,835,502
+To the Moon	14214,2411,4030
+Tom Clancy's Ghost Recon® Wildlands	11249,3956,3819
+Tom Clancy's Rainbow Six Siege	192915,50222,120846
+Tomb Raider	40923,4464,9033
+Torment: Tides of Numenera	1681,600,312
+Total War Saga: Thrones of Britannia	3610,1091,853
+Total War: ROME II - Emperor Edition	18814,5299,6572
+Total War: THREE KINGDOMS	11222,1745,2818
+Total War: WARHAMMER	16701,3779,4564
+Total War: WARHAMMER II	32360,4421,10394
+Totally Accurate Battle Simulator	20092,2384,9449
+Totally Accurate Battlegrounds	10588,3580,6344
+Toukiden 2	319,107,91
+Townscaper	3491,199,749
+Trailmakers	2611,304,873
+Train Sim World® 2020	1946,474,453
+Two Point Hospital	8374,1010,1795
+ULTRAKILL	2250,1104,1387
+Ultimate Marvel vs. Capcom 3	1029,201,453
+Umbrella Corps	398,415,237
+Undertale	56060,12464,24239
+Urban Empire	409,298,137
+VA-11 Hall-A: Cyberpunk Bartender Action	6802,711,1832
+Vampyr	3930,1729,973
+Void Bastards	1624,501,412
+Volgarr the Viking	675,433,312
+WWE 2K17	327,246,156
+WWE 2K19	697,327,270
+WWE 2K20	494,918,357
+Wallpaper Engine	50155,3699,25000
+Warhammer 40,000: Dawn of War III	5677,2466,1550
+Warhammer 40,000: Mechanicus	3745,605,772
+Warhammer: Vermintide 2	17074,6425,7028
+Watch_Dogs 2	8821,2097,3217
+We Were Here Too	1205,276,312
+Wolfenstein: Youngblood	1508,1135,572
+X Rebirth	1593,1778,721
+X-Blades	478,459,252
+X-Plane 11	3775,333,848
+XCOM 2	20521,8787,6859
+Yakuza 0	11315,2356,5288
+Youtubers Life	3610,1137,1526
+theHunter: Call of the Wild™	15027,3250,4821
+三国群英传8 Heroes of the Three Kingdoms 8	15,5,30

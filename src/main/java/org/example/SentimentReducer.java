@@ -6,7 +6,8 @@ import org.apache.hadoop.mapreduce.Reducer;
 
 /**
  * The Reducer class for aggregating sentiment counts per app.
- * For each app name, it receives a list of sentiment labels and counts how many were positive, negative, and neutral.
+ * For each app name, it receives a list of sentiment labels and counts how many
+ * were positive, negative, and neutral.
  */
 public class SentimentReducer extends Reducer<Text, Text, Text, Text> {
     @Override
@@ -32,7 +33,7 @@ public class SentimentReducer extends Reducer<Text, Text, Text, Text> {
             }
         }
 
-        String result = String.format("Positive: %d, Negative: %d, Neutral: %d", positive, negative, neutral);  // Format output
+        String result = String.format("%d,%d,%d", positive, negative, neutral);
         context.write(appName, new Text(result));
     }
 }
